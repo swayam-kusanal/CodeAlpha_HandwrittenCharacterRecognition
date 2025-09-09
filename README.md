@@ -54,15 +54,9 @@ python handwritten_character_recognition.py
 📊 Results & Output
 The model successfully classifies handwritten digits with high accuracy.
 
-Example predictions:
-
-
-(Replace with your screenshot of predictions)
-
 🎥 Demo Video
 You can check out my LinkedIn post for a video explanation of the project:
-🔗 LinkedIn Project Video
-🔗 GitHub Repository
+🔗 LinkedIn Project Video : [ https://www.linkedin.com/posts/swayam-kusanal-bb2667327_machinelearning-deeplearning-handwrittencharacterrecognition-activity-7371286575235760128-Ez6x?utm_source=share&utm_medium=member_android&rcm=ACoAAFKAU_YBb72eJv6JYU7K2oO10RapFEN2TZI ]
 
 🏆 Internship
 This project was completed as part of my internship at CodeAlpha.
